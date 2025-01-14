@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">weatherOrNot</string>
+    <string name="weather_title">Welcome to the weather app </string>
+    <string name="weather_label">Its weather-or-not you would want to know how hot or cold it is today </string>
+
+    <string name="weather_city">City : </string>
+    <string name="weather_Temp">Temp : </string>
+    <string name="weather_humidity">Humidity : </string>
+    <string name="weather_details">Details : </string>
+
+
+    <string name="TEXT_enter_a_location">Enter a location </string>
+    <string name="TEXT_get_weather_btn">Get weather</string>
+
+    <string name="TEXT_select_unit_DROPDOWN">Select Unit</string>
+
+</resources>

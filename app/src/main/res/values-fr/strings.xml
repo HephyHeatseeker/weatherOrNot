@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">weatherOrNot</string>
+    <string name="weather_title">Bienvenue dans l\'application météo</string>
+    <string name="weather_label">voudriez vous savoir à quel point il fait chaud ou froid aujourd\'hui</string>
+    <string name="weather_city">Ville :</string>
+    <string name="weather_Temp">Température :</string>
+    <string name="weather_humidity">Humidité :</string>
+    <string name="weather_details">Détails :</string>
+
+    <string name="TEXT_enter_a_location">Sasir un lieu</string>
+    <string name="TEXT_get_weather_btn">Obtenir la météo</string>
+    <string name="TEXT_select_unit_DROPDOWN">Sélectionner l\'unité</string>
+
+</resources>

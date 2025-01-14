@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">weatherOrNot</string>
+    <string name="weather_title">مرحبًا بك في تطبيق الطقس</string>
+    <string name="weather_label">هل ترغب في معرفة الطقس اليوم؟</string>
+    <string name="weather_city">المدينة :</string>
+    <string name="weather_Temp">الحرارة :</string>
+    <string name="weather_humidity">الرطوبة :</string>
+    <string name="weather_details">التفاصيل :</string>
+
+    <string name="TEXT_enter_a_location">أدخل الموقع</string>
+    <string name="TEXT_get_weather_btn">الحصول على الطقس</string>
+    <string name="TEXT_select_unit_DROPDOWN">اختر الوحدة</string>
+
+</resources>
